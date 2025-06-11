@@ -1,3 +1,3 @@
 # mergeconflito
+Conteúdo final depois do merge dos conflitos.
 
-Este é o conteúdo da branch main.
